@@ -233,7 +233,7 @@ plt.show()
 
 ---
 
-## 14. Applications of Unsupervised Learning
+## 13. Applications of Unsupervised Learning
 
 Unsupervised learning is widely used in real-world scenarios where **labeling data is expensive, time-consuming, or impossible**. Below is a comprehensive list of applications across various domains.
 
